@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <conio.h>
+
+main()
+{
+double a=10;
+double b=20;
+double c;
+
+c=a+b;
+
+printf("The value of c is",&c");
+getch();
+}
